@@ -13,7 +13,7 @@ public class fibonacci {
         Scanner sc = new Scanner(System.in);
         i = sc.nextInt();
 
-        System.out.println(fib(i));
+        System.out.println("soo, anyway Fibonacci number by index "+i+" is: "+ fib(i));
     }
 
 
